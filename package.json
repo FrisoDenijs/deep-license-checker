@@ -1,0 +1,18 @@
+{
+  "name": "deep-license-checker",
+  "version": "1.0.0",
+  "description": "Checks all the licenses attached to a given package and its dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrisoDenijs/deep-license-checker.git"
+  },
+  "author": "Friso Denijs",
+  "bugs": {
+    "url": "https://github.com/FrisoDenijs/deep-license-checker/issues"
+  },
+  "homepage": "https://github.com/FrisoDenijs/deep-license-checker#readme"
+}
